@@ -598,7 +598,8 @@ footer span a:hover{
         font-size: 25px;
     }
     .home{
-        background-position: left;
+        background-position: -450px;
+
     }
     .home .home-content .text-2{
         font-size: 70px;
