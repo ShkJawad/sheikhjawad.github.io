@@ -193,7 +193,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: blue;
+    color: crimson;
     font-weight: 500;
 }
 .home .home-content a{
@@ -661,6 +661,10 @@ footer span a:hover{
     .home .home-content .text-3{
         font-size: 27px;
     }
+    .home .home-content .text-3 span{
+    color: blue;
+    font-weight: 500;
+}
     .about .about-content .right .text,
     .skills .skills-content .left .text{
         font-size: 19px;
